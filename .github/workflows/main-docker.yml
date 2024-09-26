@@ -1,4 +1,4 @@
-name: programmingwithkumaresan
+name: CI-CI
 
 on: [push, workflow_dispatch]
 
